@@ -22,3 +22,6 @@ This is my first project.
 
 - Have created a directory <project01> for the project I am carrying out. 
 - Have initialized the project01 directory by running the <git init> command 
+- Have created my project repository and added to my git local repo 
+- The alias name is p1 <git remote -v>  
+- Have pushed my work to GitHub 
