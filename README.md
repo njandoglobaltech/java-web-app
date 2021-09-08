@@ -4,7 +4,7 @@ PROJECT 01
 # java-web-app
 This is my first project. 
 
-<<< Project Region = HONG KONG >>>>>>>
+<<< Project Region = HONG KONG >>>
 
 * This project is running on a RedHat Server 
 * Instance type = t3.micro 
